@@ -13,9 +13,22 @@
 
 ### User Stories
 
-- As a user, I want to browse the menu, so I can find my favorite coffee drinks.
-- As a user, I want to customize my order, so I can add or remove ingredients according to my preferences.
-- As a user, I want to pay for my order through the app, so I can avoid waiting in line at the store.
+- As a user without a car, I want to find carpooling options that match my route and schedule so that I can commute efficiently and cost-effectively.
+  I want to set preferences such as smoking, music, and gender to ensure a comfortable ride.
+  I want to track my ride in real-time to know the estimated arrival time and avoid waiting unnecessarily.
+  I want to pay the fare securely through the app to avoid handling cash.
+  I want to rate my carpool drivers to help maintain a high-quality service.
+
+- As a car owner, I want to offer rides to users who have similar routes and schedules so that I can reduce my commute costs.
+  I want to receive real-time traffic updates and route suggestions to avoid congestion and reach my destination quickly.
+  I want to set preferences such as smoking, music, and gender to ensure a comfortable ride for me and my passengers.
+  I want to receive payments securely through the app to avoid handling cash.
+  I want to rate my passengers to help maintain a high-quality service.
+
+- As a system administrator, I want to verify users through ID checks and driver's license verification to ensure safety and trustworthiness.
+  I want to monitor the platform's performance and address any technical issues promptly to ensure a seamless user experience.
+  I want to manage and resolve user reports and disputes to maintain a positive and collaborative community.
+  I want to implement dynamic pricing models to adjust fares based on demand and traffic conditions, ensuring fair compensation for car owners.
 
 <br><br>
 
