@@ -1,7 +1,7 @@
 [submodule "backend"]
     path = backend
-    url = https://github.com/yourusername/backend-repo.git
+    url = https://github.com/hady-awayda/carpool-connect-backend.git
 
 [submodule "frontend"]
     path = frontend
-    url = https://github.com/yourusername/frontend-repo.git
+    url = https://github.com/hady-awayda/carpool-connect-frontend.git
