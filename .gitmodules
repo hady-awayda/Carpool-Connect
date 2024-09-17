@@ -3,7 +3,3 @@
     url = https://github.com/hady-awayda/carpool-connect-backend
     branch = main
 
-[submodule "frontend"]
-    path = frontend
-    url = https://github.com/hady-awayda/carpool-connect-frontend
-    branch = main
