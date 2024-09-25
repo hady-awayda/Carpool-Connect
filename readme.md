@@ -13,22 +13,20 @@
 
 ### User Stories
 
-- As a user without a car, I want to find carpooling options that match my route and schedule so that I can commute efficiently and cost-effectively.
-  I want to set preferences such as smoking, music, and gender to ensure a comfortable ride.
-  I want to track my ride in real-time to know the estimated arrival time and avoid waiting unnecessarily.
-  I want to pay the fare securely through the app to avoid handling cash.
-  I want to rate my carpool drivers to help maintain a high-quality service.
+- As a passenger, I want to find carpooling options that match my schedule and route so that I can commute efficiently and cost-effectively.
+  I want to set my schedule details in order to manage my departure and arrival time and location
+  I want to view my schedules list and be able to find other riders that match my selection criteria
+  I want to be able to contact other riders in order to exchange meeting details and approve the rides
 
-- As a car owner, I want to offer rides to users who have similar routes and schedules so that I can reduce my commute costs.
-  I want to receive real-time traffic updates and route suggestions to avoid congestion and reach my destination quickly.
-  I want to set preferences such as smoking, music, and gender to ensure a comfortable ride for me and my passengers.
-  I want to receive payments securely through the app to avoid handling cash.
-  I want to rate my passengers to help maintain a high-quality service.
+- As a rider, I want to offer rides to users who have similar routes and schedules so that I can reduce my commute costs.
+  I want to be able to manage my schedule details in order for other passengers to find me and see my schedule details
+  I want to be able to view my schedules list and be able to find other passengers that might match with my commuting schedule
+  I want to be able to contact other passengers in order to offer them rides and exchange contact information
 
-- As a system administrator, I want to verify users through ID checks and driver's license verification to ensure safety and trustworthiness.
-  I want to monitor the platform's performance and address any technical issues promptly to ensure a seamless user experience.
-  I want to manage and resolve user reports and disputes to maintain a positive and collaborative community.
-  I want to implement dynamic pricing models to adjust fares based on demand and traffic conditions, ensuring fair compensation for car owners.
+- As a ride partner, I want to offer rides to other riders who have similar routes and schedules so we can both reduce our commute costs
+  I want to be able to manage my schedule details in order for other riders to find me and see my schedule details
+  I want to be able to view my schedules list and be able to find other riders that might match with my commuting schedule
+  I want to be able to contact other riders in order to share my rides with them and exchange contact information
 
 <br><br>
 
