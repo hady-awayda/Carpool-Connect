@@ -33,7 +33,7 @@
 <!-- Tech stack -->
 <img src="./readme/title3.svg"/>
 
-### Coffee Express is built using the following technologies:
+### Carpool Connect is built using the following technologies:
 
 - This project uses the [Expo](https://expo.dev/) app development framework. Expo is a cross-platform hybrid app development framework for React Native, which allows us to use a single codebase for apps on mobile, desktop, and the web.
 - For persistent storage (database), the app uses the [Prisma](https://prisma.io//) package which allows the app to create a custom storage schema and save it to a local database.
