@@ -114,31 +114,27 @@
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
 
-> To set up Coffee Express locally, follow these steps:
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
+> To set up Carpool Connect locally, follow these steps:
 
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [example](https://example.com)
-2. Clone the repo
-   git clone [github](https://github.com/your_username_/Project-Name.git)
-3. Install NPM packages
+1. Clone the repo
+   git clone [github](https://github.com/hady-awayda/carpool-connect-frontend.git) carpool-connect
+2. Go to the directory
+    ```sh
+   cd carpool-connect
+   ```
+4. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+5. Download Expo Go Android Application
+6. Run the local server
    ```js
-   const API_KEY = "ENTER YOUR API";
+   npx expo start -c
    ```
+7. Scan the QR Code in the terminal with your phone camera
 
-Now, you should be able to run Coffee Express locally and explore its features.
+Now, you should be able to run Carpool Connect locally and explore its features.
