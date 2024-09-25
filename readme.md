@@ -96,6 +96,10 @@
 
 - This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. With a focus on scalability, reliability, and performance, we ensure that AI applications powered by these models deliver robust and responsive solutions for diverse use cases.
 
+| Register User                              | Fetch User Schedules                         | Create User Schedule                          | Update User Schedule                          |
+| ----------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| <img src="./readme/demo/postman/postman3.png"/>      | <img src="./readme/demo/postman/postman4.png"/>    | <img src="./readme/demo/postman/postman2.png"/>    | <img src="./readme/demo/postman/postman1.png"/>    |
+
 <br><br>
 
 <!-- Unit Testing -->
