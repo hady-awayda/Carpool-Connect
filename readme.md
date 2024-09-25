@@ -96,7 +96,8 @@
 
 - This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. With a focus on scalability, reliability, and performance, we ensure that AI applications powered by these models deliver robust and responsive solutions for diverse use cases.
   
-|  AWS Infrastructure Diagram
+|  AWS Infrastructure Diagram |
+| ----------------------------------------- |
 |<img src="./readme/demo/AWS/infrastructure.png"/> |
 
 | Register User                              | Fetch User Schedules                         | Create User Schedule                          | Update User Schedule                          |
