@@ -50,9 +50,9 @@
 
 ### Mockups
 
-| Login screen                            | Home Screen                           | Schedules Screen                      |
+| Welcome screen                            | Home Screen                           | Schedules Screen                      |
 | --------------------------------------- | ------------------------------------- | ------------------------------------- |
-| ![Landing](./readme/demo/login.jpg) | ![fsdaf](./readme/demo/home.jpg) | ![fsdaf](./readme/demo/schedules_list.jpg) |
+| ![Landing](./readme/demo/welcome.jpg) | ![fsdaf](./readme/demo/home.jpg) | ![fsdaf](./readme/demo/schedules_list.jpg) |
 
 <br><br>
 
@@ -70,9 +70,9 @@
 
 ### User Screens (Mobile)
 
-| Login screen                              | Register screen                         | Landing screen                          | Loading screen                          |
+| Welcome screen                              | Login screen                         | Register screen                          | Home screen                          |
 | ----------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
-| <img src="./readme/title5.svg"/> |
+| <img src="./readme/demo/welcome.jpg"/>      | <img src="./readme/demo/login.jpg"/>    | <img src="./readme/demo/register.jpg"/>    | <img src="./readme/demo/home.jpg"/>    |
 | Home screen                               | Menu Screen                             | Order Screen                            | Checkout Screen                         |
 | ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
 
