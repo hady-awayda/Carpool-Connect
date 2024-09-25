@@ -120,9 +120,11 @@
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Clone the repo
-   git clone [github](https://github.com/hady-awayda/carpool-connect-frontend.git) carpool-connect
-2. Go to the directory
+1. Clone the repository [github](https://github.com/hady-awayda/carpool-connect-frontend.git)
+    ```sh
+   git clone https://github.com/hady-awayda/carpool-connect-frontend.git carpool-connect
+   ```
+3. Go to the directory
     ```sh
    cd carpool-connect
    ```
