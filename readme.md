@@ -63,7 +63,7 @@
 
 ### Architecting Data Excellence: Innovative Database Design Strategies:
 
-- Insert ER Diagram here
+- Insert ER Diagram here [DBDiagram](https://dbdiagram.io/d/Carpool-Connect-66d7b85feef7e08f0e9a5b64)
 
 <br><br>
 
