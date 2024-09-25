@@ -74,9 +74,9 @@
 | ----------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
 | <img src="./readme/demo/welcome.jpg"/>      | <img src="./readme/demo/login.jpg"/>    | <img src="./readme/demo/register.jpg"/>    | <img src="./readme/demo/home.jpg"/>    |
 | Location Search screen                             | Location Selection screen                             | Schedule Options screen                           | User Schedules screen                       |
-| <img src="./readme/demo/location-search.jpg"/>      | <img src="./readme/demo/destination-select.jpg"/>      || <img src="./readme/demo/setting-time.jpg"/>      | <img src="./readme/demo/schedules_list.jpg"/>      |
+| <img src="./readme/demo/location-search.jpg"/>      | <img src="./readme/demo/destination-select.jpg"/>      | <img src="./readme/demo/setting-time.jpg"/>      | <img src="./readme/demo/schedules_list.jpg"/>      |
 | Location Search screen                             | Location Selection screen                             | Schedule Options screen                           | User Schedules screen                       |
-| <img src="./readme/demo/location-search.jpg"/>      | <img src="./readme/demo/destination-select.jpg"/>      || <img src="./readme/demo/setting-time.jpg"/>      | <img src="./readme/demo/schedules_list.jpg"/>      |
+| <img src="./readme/demo/location-search.jpg"/>      | <img src="./readme/demo/destination-select.jpg"/>      | <img src="./readme/demo/setting-time.jpg"/>      | <img src="./readme/demo/schedules_list.jpg"/>      |
 
 <br><br>
 
