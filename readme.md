@@ -5,11 +5,11 @@
 <!-- project philosophy -->
 <img src="./readme/title2.svg"/>
 
-> The Smart Traffic Management System and Carpooling Platform with Micro-Transactions aims to revolutionize urban commuting by leveraging cutting-edge technologies to optimize mobility and reduce traffic congestion.
+> Carpool Connect is a platform designed to optimize urban mobility by connecting users with matching schedules and routes, and facilitating communication between them.
 >
-> This platform seeks to create a seamless, efficient, and sustainable transportation network by matching users without cars with car owners, enabling cost-effective and environmentally friendly commuting. By utilizing machine learning, artificial intelligence, and real-time services, the system enhances the user experience through intelligent matching, real-time traffic updates, and dynamic route suggestions.
+>  The platform allows users to create personalized schedules, automatically find the best route matches based on proximity and travel times, and share rides with others, promoting convenience, cost-saving, and eco-friendly commuting.
 >
-> Secure microtransactions incentivize car owners to participate, fostering a collaborative and trusted community. The ultimate goal is to reduce commute times, save transportation costs, and promote a greener urban environment.
+> The ultimate goal is to reduce commute times, save transportation costs, and promote a greener urban environment.
 
 ### User Stories
 
