@@ -116,6 +116,10 @@
 
 > To set up Carpool Connect locally, follow these steps:
 
+### Prerequisites
+
+Download the Expo Go Application on your phone
+
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
