@@ -52,7 +52,7 @@
 
 | Welcome screen                            | Home Screen                           | Schedules Screen                      |
 | --------------------------------------- | ------------------------------------- | ------------------------------------- |
-| ![Landing](./readme/demo/welcome.jpg) | ![fsdaf](./readme/demo/home.jpg) | ![fsdaf](./readme/demo/schedules_list.jpg) |
+| ![Landing](./readme/screens/welcome.jpg) | ![fsdaf](./readme/screens/home.jpg) | ![fsdaf](./readme/screens/schedules_list.jpg) |
 
 <br><br>
 
@@ -72,7 +72,7 @@
 
 | Welcome screen                            | Login screen                            | Register screen                         | 
 | ----------------------------------------- | --------------------------------------- | --------------------------------------- |
-| <img src="./readme/screens/welcome.jpg"/> | <img src="./readme/screens/login.jpg"/> | <img src="./readme/demo/register.jpg"/>|
+| <img src="./readme/screens/welcome.jpg"/> | <img src="./readme/screens/login.jpg"/> | <img src="./readme/screens/register.jpg"/>|
 
 | Home screen                               | Location Search screen                  | Location Selection screen               |
 | ----------------------------------------- | --------------------------------------- | --------------------------------------- |
