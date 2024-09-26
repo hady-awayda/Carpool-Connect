@@ -46,7 +46,7 @@
 
 > We designed Carpool Connect using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
 
-- Project Figma design [figma](https://www.figma.com/design/6up6johu37cvuuxxrolCZ7/Carpool-Connect?node-id=43-376&t=IqZBGPF3xN6uBLip-1)
+- Project Figma design [Link](https://www.figma.com/design/6up6johu37cvuuxxrolCZ7/Carpool-Connect?node-id=43-376&t=IqZBGPF3xN6uBLip-1)
 
 ### Mockups
 
