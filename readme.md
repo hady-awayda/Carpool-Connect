@@ -106,11 +106,11 @@
   
 |  AWS Infrastructure Diagram |
 | ----------------------------------------- |
-|<img src="./readme/demo/AWS/infrastructure.png"/> |
+|<img src="./readme/AWS/infrastructure.png"/> |
 
 | Register User                              | Fetch User Schedules                         | Create User Schedule                          | Update User Schedule                          |
 | ----------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
-| <img src="./readme/demo/postman/postman3.png"/>      | <img src="./readme/demo/postman/postman4.png"/>    | <img src="./readme/demo/postman/postman2.png"/>    | <img src="./readme/demo/postman/postman1.png"/>    |
+| <img src="./readme/postman/postman3.png"/>      | <img src="./readme/postman/postman4.png"/>    | <img src="./readme/postman/postman2.png"/>    | <img src="./readme/postman/postman1.png"/>    |
 
 <br><br>
 
