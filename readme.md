@@ -13,17 +13,20 @@
 
 ### User Stories
 
-- As a passenger, I want to find carpooling options that match my schedule and route so that I can commute efficiently and cost-effectively.
+### Passenger
+- I want to find carpooling options that match my schedule and route so that I can commute efficiently and cost-effectively.
   I want to set my schedule details in order to manage my departure and arrival time and location
   I want to view my schedules list and be able to find other riders that match my selection criteria
   I want to be able to contact other riders in order to exchange meeting details and approve the rides
 
-- As a rider, I want to offer rides to users who have similar routes and schedules so that I can reduce my commute costs.
+- Rrider
+  I want to offer rides to users who have similar routes and schedules so that I can reduce my commute costs.
   I want to be able to manage my schedule details in order for other passengers to find me and see my schedule details
   I want to be able to view my schedules list and be able to find other passengers that might match with my commuting schedule
   I want to be able to contact other passengers in order to offer them rides and exchange contact information
 
-- As a ride partner, I want to offer rides to other riders who have similar routes and schedules so we can both reduce our commute costs
+- Partner
+  I want to offer rides to other riders who have similar routes and schedules so we can both reduce our commute costs
   I want to be able to manage my schedule details in order for other riders to find me and see my schedule details
   I want to be able to view my schedules list and be able to find other riders that might match with my commuting schedule
   I want to be able to contact other riders in order to share my rides with them and exchange contact information
