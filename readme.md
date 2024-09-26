@@ -13,20 +13,20 @@
 
 ### User Stories
 
-- As a passenger, I want to find carpooling options that match my schedule and route so that I can commute efficiently and cost-effectively.
-  I want to set my schedule details in order to manage my departure and arrival time and location
-  I want to view my schedules list and be able to find other riders that match my selection criteria
-  I want to be able to contact other riders in order to exchange meeting details and approve the rides
+#### Passenger
+- I want to find carpooling options that match my schedule and route so that I can commute efficiently and cost-effectively.
+- I want to set my schedule details in order to manage my departure and arrival time and location
+- I want to be able to to find other riders that match my selection criteria, and contact them in order approve the rides
 
-- As a rider, I want to offer rides to users who have similar routes and schedules so that I can reduce my commute costs.
-  I want to be able to manage my schedule details in order for other passengers to find me and see my schedule details
-  I want to be able to view my schedules list and be able to find other passengers that might match with my commuting schedule
-  I want to be able to contact other passengers in order to offer them rides and exchange contact information
+#### Rider
+- I want to offer rides to users who have similar routes and schedules so that I can reduce my commute costs.
+- I want to be able to manage my schedule details in order for other passengers to find me and see my schedule details.
+- I want to be able to view my schedules list and be able to find other passengers that might match with my commuting schedule.
 
-- As a ride partner, I want to offer rides to other riders who have similar routes and schedules so we can both reduce our commute costs
-  I want to be able to manage my schedule details in order for other riders to find me and see my schedule details
-  I want to be able to view my schedules list and be able to find other riders that might match with my commuting schedule
-  I want to be able to contact other riders in order to share my rides with them and exchange contact information
+#### Partner
+- I want to offer rides to other riders who have similar routes and schedules so we can both reduce our commute costs
+- I want to be able to view and manage my schedule details in order for other riders to find me and see my schedule details
+- I want to be able to view my schedules list and be able to find other riders that might match with my commuting schedule and contact them
 
 <br><br>
 
@@ -70,14 +70,19 @@
 
 ### User Screens (Mobile)
 
-| Welcome screen                              | Login screen                         | Register screen                          | Home screen                          |
-| ----------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| Welcome screen                              | Login screen                         | Register screen                          | 
+| ----------------------------------------- | --------------------------------------- | --------------------------------------- |
 | <img src="./readme/demo/welcome.jpg"/>      | <img src="./readme/demo/login.jpg"/>    | <img src="./readme/demo/register.jpg"/>    | <img src="./readme/demo/home.jpg"/>    |
-| Location Search screen                             | Location Selection screen                             | Schedule Options screen                           | User Schedules screen                       |
+
+| Home screen                          | Location Search screen                             | Location Selection screen                             |
+| ----------------------------------------- | --------------------------------------- | --------------------------------------- |
 | <img src="./readme/demo/location-search.jpg"/>      | <img src="./readme/demo/destination-select.jpg"/>      | <img src="./readme/demo/setting-time.jpg"/>      | <img src="./readme/demo/schedules_list.jpg"/>      |
-| Schedules Details screen                             | Explore screen                             | Filter Search screen                           | User Schedules screen                       |
+
+| Schedule Options screen                           | User Schedules screen                       | Schedules Details screen                             |
+| ----------------------------------------- | --------------------------------------- | --------------------------------------- |
 | <img src="./readme/demo/schedule-details1.jpg"/>      | <img src="./readme/demo/explore.jpg"/>      | <img src="./readme/demo/filter-schedules.jpg"/>      | <img src="./readme/demo/schedule-details2.jpg"/>      |
 
+| Explore screen                             | Filter Search screen                           | User Schedules screen                       |
 <br><br>
 
 <!-- Prompt Engineering -->
