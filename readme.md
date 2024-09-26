@@ -150,11 +150,10 @@ Download the Expo Go Application on your phone
    ```sh
    npm install
    ```
-5. Download Expo Go Android Application
-6. Run the local server
+5. Run the local server
    ```js
    npx expo start -c
    ```
-7. Scan the QR Code in the terminal with your phone camera
+6. Scan the QR Code in the terminal with your phone camera
 
 Now, you should be able to run Carpool Connect locally and explore its features.
