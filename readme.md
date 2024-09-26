@@ -70,19 +70,22 @@
 
 ### User Screens (Mobile)
 
-| Welcome screen                              | Login screen                         | Register screen                          | 
-| ----------------------------------------- | --------------------------------------- | --------------------------------------- |
-| <img src="./readme/demo/welcome.jpg"/>      | <img src="./readme/demo/login.jpg"/>    | <img src="./readme/demo/register.jpg"/>    | <img src="./readme/demo/home.jpg"/>    |
+| Welcome screen                            | Login screen                            | Register screen                         | 
+| ------------------------------------------- | --------------------------------------- | --------------------------------------- |
+| <img src="./readme/screens/welcome.jpg"/>      | <img src="./readme/screens/login.jpg"/>    | <img src="./readme/demo/register.jpg"/>    |
 
-| Home screen                          | Location Search screen                             | Location Selection screen                             |
+| Home screen                               | Location Search screen                  | Location Selection screen               |
 | ----------------------------------------- | --------------------------------------- | --------------------------------------- |
-| <img src="./readme/demo/location-search.jpg"/>      | <img src="./readme/demo/destination-select.jpg"/>      | <img src="./readme/demo/setting-time.jpg"/>      | <img src="./readme/demo/schedules_list.jpg"/>      |
+| <img src="./readme/screens/home.jpg"/>       | <img src="./readme/screens/location-search.jpg"/>      | <img src="./readme/screens/destination-select.jpg"/>      |
 
-| Schedule Options screen                           | User Schedules screen                       | Schedules Details screen                             |
+| Schedule Options screen                   | User Schedules screen                   | Schedules Details screen                |
 | ----------------------------------------- | --------------------------------------- | --------------------------------------- |
-| <img src="./readme/demo/schedule-details1.jpg"/>      | <img src="./readme/demo/explore.jpg"/>      | <img src="./readme/demo/filter-schedules.jpg"/>      | <img src="./readme/demo/schedule-details2.jpg"/>      |
+| <img src="./readme/screens/setting-time.jpg"/>      | <img src="./readme/screens/schedules_list.jpg"/>      | <img src="./readme/screens/schedule-details1.jpg"/>      
 
-| Explore screen                             | Filter Search screen                           | User Schedules screen                       |
+| Explore screen                            | Filter Search screen                    | User Schedules screen                   |
+| ----------------------------------------- | --------------------------------------- | --------------------------------------- |
+| <img src="./readme/screens/explore.jpg"/>      | <img src="./readme/screens/filter-schedules.jpg"/>      | <img src="./readme/screens/schedule-details2.jpg"/>      |
+
 <br><br>
 
 <!-- Prompt Engineering -->
