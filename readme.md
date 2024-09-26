@@ -71,20 +71,20 @@
 ### User Screens (Mobile)
 
 | Welcome screen                            | Login screen                            | Register screen                         | 
-| ------------------------------------------- | --------------------------------------- | --------------------------------------- |
-| <img src="./readme/screens/welcome.jpg"/>      | <img src="./readme/screens/login.jpg"/>    | <img src="./readme/demo/register.jpg"/>    |
+| ----------------------------------------- | --------------------------------------- | --------------------------------------- |
+| <img src="./readme/screens/welcome.jpg"/> | <img src="./readme/screens/login.jpg"/> | <img src="./readme/demo/register.jpg"/>|
 
 | Home screen                               | Location Search screen                  | Location Selection screen               |
 | ----------------------------------------- | --------------------------------------- | --------------------------------------- |
-| <img src="./readme/screens/home.jpg"/>       | <img src="./readme/screens/location-search.jpg"/>      | <img src="./readme/screens/destination-select.jpg"/>      |
+| <img src="./readme/screens/home.jpg"/>    | <img src="./readme/screens/location-search.jpg"/>  | <img src="./readme/screens/destination-select.jpg"/>|
 
 | Schedule Options screen                   | User Schedules screen                   | Schedules Details screen                |
 | ----------------------------------------- | --------------------------------------- | --------------------------------------- |
-| <img src="./readme/screens/setting-time.jpg"/>      | <img src="./readme/screens/schedules_list.jpg"/>      | <img src="./readme/screens/schedule-details1.jpg"/>      
+| <img src="./readme/screens/setting-time.jpg"/> | <img src="./readme/screens/schedules_list.jpg"/> | <img src="./readme/screens/schedule-details1.jpg"/> |
 
 | Explore screen                            | Filter Search screen                    | User Schedules screen                   |
 | ----------------------------------------- | --------------------------------------- | --------------------------------------- |
-| <img src="./readme/screens/explore.jpg"/>      | <img src="./readme/screens/filter-schedules.jpg"/>      | <img src="./readme/screens/schedule-details2.jpg"/>      |
+| <img src="./readme/screens/explore.jpg"/> | <img src="./readme/screens/filter-schedules.jpg"/>  | <img src="./readme/screens/schedule-details2.jpg"/> |
 
 <br><br>
 
@@ -108,10 +108,14 @@
 | ----------------------------------------- |
 |<img src="./readme/AWS/infrastructure.png"/> |
 
-| Register User                              | Fetch User Schedules                         | Create User Schedule                          | Update User Schedule                          |
-| ----------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
-| <img src="./readme/postman/postman3.png"/>      | <img src="./readme/postman/postman4.png"/>    | <img src="./readme/postman/postman2.png"/>    | <img src="./readme/postman/postman1.png"/>    |
+| Register User                              | Fetch User Schedules                         |
+| ------------------------------------------ | -------------------------------------------- |
+| <img src="./readme/postman/postman3.png"/>      | <img src="./readme/postman/postman4.png"/>    |
 
+| Create User Schedule                          | Update User Schedule                          |
+| ----------------------------------------------| --------------------------------------------- |
+| <img src="./readme/postman/postman2.png"/>    | <img src="./readme/postman/postman1.png"/>    |
+ 
 <br><br>
 
 <!-- Unit Testing -->
