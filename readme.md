@@ -3,7 +3,7 @@
 <br><br>
 
 <!-- project philosophy -->
-<img src="./readme/title2.svg"/>
+<img src="./readme/title1.svg"/>
 
 > Carpool Connect is a platform designed to optimize urban mobility by connecting users with matching schedules and routes, and facilitating communication between them.
 >
